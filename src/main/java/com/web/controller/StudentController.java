@@ -87,4 +87,6 @@ public class StudentController {
 	  repo.save(mr);
 	  return "index";
   }
+	
+	//practicing for update server repository to local repository
 }
